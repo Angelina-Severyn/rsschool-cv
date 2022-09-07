@@ -27,14 +27,16 @@ Yanka Kupala State University of Grodno
     09.2007-06.2012
     
     - Magister in Classical Philology
+    
 ### SKILLS
     * HTML
     * CSS
     * Java Script (basic)
     * Photoshop, Figma, Canva
+    
 ### CODE EXAMPLES
 ### LANGUAGES
-    * Ruusian - native speaker
+    * Russian - native speaker
     * English B1
     * Polish B1
     * Greek A2
