@@ -1,8 +1,10 @@
 ### **ANHELINA SEVERYN**
+----------
 ### CONTACT INFO
-    * PHONE: +48668851619
-    * Email: angelina.severyn@gmail.com
-    * GitHub: Angelina-Severyn
+    + PHONE: +48668851619
+    + Email: angelina.severyn@gmail.com
+    + GitHub: Angelina-Severyn
+    
 ### ABOUT ME
 For 10 years of work in an NGO, I went from a volunteer to a member of the Board. I have experience in working with various projects (leadership, coordination, project planning, reporting).
 
@@ -31,3 +33,8 @@ Yanka Kupala State University of Grodno
     * Java Script (basic)
     * Photoshop, Figma, Canva
 ### CODE EXAMPLES
+### LANGUAGES
+    * Ruusian - native speaker
+    * English B1
+    * Polish B1
+    * Greek A2
