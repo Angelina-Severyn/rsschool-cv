@@ -2,8 +2,8 @@
 ----------
 ### CONTACT INFO
     + PHONE: +48668851619
-    + Email: angelina.severyn@gmail.com
-    + GitHub: Angelina-Severyn
+    + Email: [angelina.severyn@gmail.com] (angelina.severyn@gmail.com)
+    + GitHub: [Angelina-Severyn] (https://github.com/Angelina-Severyn)
     
 ### ABOUT ME
 For 10 years of work in an NGO, I went from a volunteer to a member of the Board. I have experience in working with various projects (leadership, coordination, project planning, reporting).
