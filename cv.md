@@ -35,6 +35,13 @@ Yanka Kupala State University of Grodno
     * Photoshop, Figma, Canva
     
 ### CODE EXAMPLES
+From CODEWARS
+
+    * myltiplay = function (a, b) {
+        return a * b ;
+      }
+ 
+ 
 ### LANGUAGES
     * Russian - native speaker
     * English B1
